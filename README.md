@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jacob</h1>
+<h3 align="center">A passionate Fullstack developer.</h3>
+
+- 📫 How to reach me **[https://jacobsussan.com](https://jacobsussan.com)**
+- 🔭 I’m currently working on a website that shows you the odds for lottery games. [https://lottery-odds.com](https://lottery-odds.com)
+- ⚡ The generation of random numbers is too important to be left to chance.
+- 🌱 I’m currently learning more about machine learning. 
 
 <!--
 **JacobSussan/JacobSussan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
